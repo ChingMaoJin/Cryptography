@@ -1,5 +1,5 @@
-# Cryptography
-This repository shows my implementation of DES without using python cryptographic library.
+# Cryptography - Affine Brute Force Attack
+This branch shows how a weakly encrypted text can be decrypted via Affine Brute Force Attack. 
 
 # Excuting
 On Terminal: python "Affine Brute Force Attack.py" 
