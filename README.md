@@ -1,5 +1,5 @@
 # Cryptography - Letter Frequency Analysis
-This repository shows how I apply letter frequency analysis for decrypting the cipher text. It's based on the English Letter Frequency. Futher details on how I decrypt the ciphertext can be found on the report named "22013213_MaoJin_Ching_ReportA1"
+This branch shows how I apply letter frequency analysis for decrypting the weakly encrypted plaintext. It's based on the English Letter Frequency. Futher details on how I decrypt the ciphertext can be found on the report named "22013213_MaoJin_Ching_ReportA1"
 
 # Executing the file
 On terminal: python LetterFreqAnalysis.py
