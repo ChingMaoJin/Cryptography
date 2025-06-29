@@ -1,2 +1,9 @@
 # Cryptography
-This repository shows my implementation of DES without importing python cryptographic library, Decryption by Letter Frequency Analysis, Decryption by Affine Brute Force Attack, RSA encryption and decryption, digital signature and verification 
+This repository shows my implementation of DES without using python cryptographic library.
+
+# Excuting
+On Terminal: python "Affine Brute Force Attack.py" 
+Python has to be installed before executing the command. 
+
+# Outcome
+All the possible pair of keys and its corresponding frequency of common words will be displayed on console. The decrypted text will be shown in the top 1 to 5. Top 1 file consists of fully decrypted text. 
