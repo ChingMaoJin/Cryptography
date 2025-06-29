@@ -1,5 +1,5 @@
-# Cryptography
-This repository shows my implementation of DES encryption and decryption without using python cryptographic library. 
+# Cryptography - DES
+This branch shows my implementation of DES encryption and decryption without using python cryptographic library. 
 
 # Execution
 You must install python package and ensure that you are on the right directory before running the command below
